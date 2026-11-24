@@ -1,0 +1,8 @@
+Write one fortune for a houseplant sitting in a pot on a windowsill.
+
+The fortune must be a single line, 1 to 120 characters long. It should
+sound like a real fortune — a gentle prediction about the plant's own
+future — and it should be kind and funny. Make it feel written for this
+one plant in this one window, not for plants in general: mention the
+window, the glass, the sun, or the windowsill itself. No care tips, no
+slogans, no captions. Just the fortune, plain text, nothing else.
